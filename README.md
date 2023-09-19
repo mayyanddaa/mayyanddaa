@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Passionate as Quality assurance (QA) form Indonesia</p>
+<p align="center">Passionate as Quality assurance (QA) from Indonesia</p>
 
 ###
 
